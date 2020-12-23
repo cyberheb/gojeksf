@@ -1,4 +1,4 @@
-The code shamelessly adopted from subfinder project. I limited to only 4 passive sources, and also add functionality to do scrapping in order to retrieve resource path of each identified subdomain. 
+The code shamelessly adopted from subfinder project. I limited to only 4 passive sources, and also add functionality to do scrapping in order to retrieve resource path of each identified subdomain. This is part of Gojek submission test.
 
 
 # Usage
